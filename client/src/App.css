@@ -1,0 +1,19 @@
+a:hover {
+	cursor: pointer;
+}
+.button-link {
+	background: none !important;
+	border: none;
+	color: #069;
+	cursor: pointer;
+}
+textarea {
+	height: 100%;
+}
+Spinner {
+	width: 5rem;
+	height: 5rem;
+}
+.pointer{
+	cursor: pointer;
+}
